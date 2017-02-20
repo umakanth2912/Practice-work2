@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "methodoverload", "methodoverload\methodoverload.csproj", "{2F5A8332-767B-4429-932F-975DB091C2FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "methodoverride", "..\methodoverride\methodoverride\methodoverride.csproj", "{1FEC8235-0142-4F18-96C4-489AB2FCF75D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2F5A8332-767B-4429-932F-975DB091C2FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F5A8332-767B-4429-932F-975DB091C2FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F5A8332-767B-4429-932F-975DB091C2FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FEC8235-0142-4F18-96C4-489AB2FCF75D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FEC8235-0142-4F18-96C4-489AB2FCF75D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FEC8235-0142-4F18-96C4-489AB2FCF75D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FEC8235-0142-4F18-96C4-489AB2FCF75D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
